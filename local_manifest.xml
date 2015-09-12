@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="I9305/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="android-5.1" />
+  <project name="I9305/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="android-5.1" />
+  <project name="I9305/android_device_samsung_qcom-common" path="device/samsung/samsung_qcom-common" remote="github" revision="android-5.1" />
+  <project name="I9305/android_device_samsung_i9305" path="device/samsung/i9305" remote="github" revision="android-5.1" />
+  <project name="I9305/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="android-5.1" />
+</manifest>
